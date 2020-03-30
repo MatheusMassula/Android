@@ -8,4 +8,17 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="edit_text_style">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_marginStart">@dimen/edit_text_margin</item>
+        <item name="android:layout_marginTop">@dimen/edit_text_margin</item>
+        <item name="android:layout_marginEnd">@dimen/edit_text_margin</item>
+        <item name="android:background">@drawable/edit_text_shape</item>
+        <item name="android:paddingStart">@dimen/edit_text_padding</item>
+        <item name="android:paddingTop">@dimen/edit_text_padding</item>
+        <item name="android:paddingEnd">@dimen/edit_text_padding</item>
+        <item name="android:paddingBottom">@dimen/edit_text_padding</item>
+    </style>
+
 </resources>
