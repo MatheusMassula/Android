@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LoginPageChallenge</string>
+    <string name="login">LOGIN</string>
+    <string name="username">username</string>
+    <string name="password">password</string>
+    <string name="forgot_password">Forgot password?</string>
+    <string name="connect_options">Or connect with</string>
+    <string name="facebook">Facebook</string>
+    <string name="twitter">Twitter</string>
+    <string name="register_with_email">Register with email</string>
+</resources>
